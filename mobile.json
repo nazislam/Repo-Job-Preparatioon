@@ -1,4 +1,5 @@
 {
     "mobile": "Iphone",
-    "model" : "Iphone 7"
+    "model" : "Iphone 7",
+    "system": "IOS"
 }
